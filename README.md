@@ -84,7 +84,7 @@ Paso21:Destacamos una de las cajas usando flex.grow:
 
 
 
-Recomención:Si se modifica el tamañano del contenedor y las cajas no tienen un tamaño por defecto van a ocupar el 100x100 del contenedor.
+NOTA:Si se modifica el tamañano del contenedor y las cajas no tienen un tamaño por defecto van a ocupar el 100x100 del contenedor.
 
 Recomendaciones: Tener en cuenta estos comandos a la hora de querer ubicar nuestras cajas:
 
